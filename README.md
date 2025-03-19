@@ -28,7 +28,6 @@
   - Review of the Principle of Equality in University Dormitory Accommodation Counseling Management Guidelines
   - Brief Introduction to Voting Rights and Legal Adulthood Concept in the Constitution
     
-- Intellectual Property Rights
 - Maritime and International Law
   - Dilemmas and Development of Taiwan's Ocean Policy Governance
   - Discussion on the Territorial Issues of Diaoyu Islands and National Interests from the Perspective of International Law
