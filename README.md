@@ -1,7 +1,7 @@
 # Legal-side-study
+- Author: Cheng-Hao Zhang
 
 - 中華民國刑法與刑事政策
-
   - §185-3_酒駕
   - §222_妨害性自主
   - §271_普通殺人
