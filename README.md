@@ -25,7 +25,7 @@
   - §271 Offenses of Homicide
     
 - Constitution of the Republic of China
-  - [Review of the Principle of Equality in University Dormitory Accommodation Counseling Management Guidelines]((https://github.com/windware1203/Legal-side-study/blob/main/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%86%B2%E6%B3%95/%E6%9F%90%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E5%AE%BF%E8%88%8D%E4%BD%8F%E5%AE%BF%E8%BC%94%E5%B0%8E%E7%AE%A1%E7%90%86%E8%A6%81%E9%BB%9E%E8%A6%8F%E5%AE%9A%E4%B9%8B%E5%B9%B3%E7%AD%89%E5%8E%9F%E5%89%87%E5%AF%A9%E6%9F%A5.pdf))
+  - [Review of the Principle of Equality in University Dormitory Accommodation Counseling Management Guidelines](https://github.com/windware1203/Legal-side-study/blob/main/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%86%B2%E6%B3%95/%E6%9F%90%E5%A4%A7%E5%AD%B8%E5%AD%B8%E7%94%9F%E5%AE%BF%E8%88%8D%E4%BD%8F%E5%AE%BF%E8%BC%94%E5%B0%8E%E7%AE%A1%E7%90%86%E8%A6%81%E9%BB%9E%E8%A6%8F%E5%AE%9A%E4%B9%8B%E5%B9%B3%E7%AD%89%E5%8E%9F%E5%89%87%E5%AF%A9%E6%9F%A5.pdf)
   - [Brief Introduction to Voting Rights and Legal Adulthood Concept in the Constitution](https://github.com/windware1203/Legal-side-study/blob/main/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%86%B2%E6%B3%95/%E6%86%B2%E6%B3%95%E6%8A%95%E7%A5%A8%E6%AC%8A%E8%88%87%E6%B3%95%E5%BE%8B%E6%88%90%E5%B9%B4%E6%A6%82%E5%BF%B5%E7%9F%AD%E7%AF%87%E4%BB%8B%E7%B4%B9.pdf)
     
 - Admiralty and International Law
